@@ -102,3 +102,6 @@ test.SetPlainTest("For the love of Christ constraineth us; because we thus judge
 code = test.EncryptTest()
 print(code)
 print(test.DecryptCipher(code))
+
+
+# I created the code in class, following along with the lecture. I then reviewed the github respository, and fixed one bug I had.
